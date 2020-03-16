@@ -8,3 +8,5 @@ The "all" dataframe has the combined data organized by participant and posture. 
 "means" is the long-format dataframe containing the averages of the relevant variables.
 
 "means.wide" is the reformatted tidy version of the dataset organized by participant and posture.
+
+Description of the variables is in the features_info text file.
